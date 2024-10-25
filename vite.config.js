@@ -26,7 +26,9 @@ export default defineConfig({
   ],
   build: {
     rollupOptions,
-    minify: false,
+    minify: 'terser',
+    sourcemap: true,
+    reportCompressedSize: true,
     cssCodeSplit: true,
     // 添加库模式配置
     lib: {
