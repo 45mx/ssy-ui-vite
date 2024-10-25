@@ -1,9 +1,8 @@
-
-import { createApp, defineComponent, h } from 'vue'
+import { createApp } from 'vue'
 // import SButton from '../src/button'
 // import SFCButton from "../SFCButton.vue";
 // import TSXButton from "./TSXButton";
-import  SSYUI  from "./entry";
+import SSYUI from './entry'
 
 // export default defineComponent({
 //   name: 'SButton',
@@ -14,7 +13,6 @@ import  SSYUI  from "./entry";
 // createApp(SFCButton).mount("#app");
 // createApp(TSXButton).mount("#app");
 // createApp(SButton).mount("#app");
-
 
 createApp({
   template: `
@@ -51,8 +49,7 @@ createApp({
         <SButton color="yellow" round plain icon="message"></SButton>
       </div>
   `,
-  
-  
+
 })
- .use(SSYUI)
-  .mount("#app");
+  .use(SSYUI)
+  .mount('#app')
