@@ -1,12 +1,13 @@
 {
-  "name": "ssy-ui-vite",
+  "name": "goodgood-ui",
   "type": "module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "author": "",
   "license": "ISC",
   "keywords": [],
   "main": "index.js",
+  "files": ["dist"],
   "scripts": {
     "test": "vitest",
     "dev": "vite",
@@ -28,6 +29,10 @@
     "cz-customizable": {
       "config": ".cz-config.cjs"
     }
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^3.7.3",
