@@ -8,8 +8,8 @@
   基于 Vite 栈的前端工程化实践
 </p>
 
-<P align="center"?
-< img src="https://img.shields.io/github/license/45mx/ssy-ui-vite">
+<P align="center">
+<img src="./assets/1.png">
 </p>
 
 ## Features
