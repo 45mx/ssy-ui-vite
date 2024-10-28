@@ -9,7 +9,7 @@
 </p>
 
 <P align="center"?
-<img src="https://th.bing.com/th/id/OIP.DguyktVOqJ0GImwtH8_U3QHaGV?rs=1&pid=ImgDetMain">
+<img src="file:///C:/Users/30458/s/ssy-ui-vite/assets/1.png">
 </p>
 
 ## Features
