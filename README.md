@@ -9,7 +9,7 @@
 </p>
 
 <P align="center"?
-<img src="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3117189806,3275155062&fm=253&gp=0.jpg">
+< img src="https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3117189806,3275155062&fm=253&gp=0.jpg">
 </p>
 
 ## Features
