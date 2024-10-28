@@ -1,6 +1,6 @@
 <p align="center">
 <div style="width:150px;margin:auto;">
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 261 226"><path d="M161.096.001l-30.225 52.351L100.647.001H-.005l130.877 226.688L261.749.001z" fill="#41b883"/><path d="M161.096.001l-30.225 52.351L100.647.001H52.346l78.526 136.01L209.398.001z" fill="#34495e"/></svg>
+<svg viewBox="0 0 261 226"><path d="M161.096.001l-30.225 52.351L100.647.001H-.005l130.877 226.688L261.749.001z" fill="#41b883"/><path d="M161.096.001l-30.225 52.351L100.647.001H52.346l78.526 136.01L209.398.001z" fill="#34495e"/></svg>
 </div>
 </p>
 <h1 align="center">SSY-UI-VITE</h1>
@@ -9,7 +9,7 @@
 </p>
 
 <P align="center"?
-<img src="./assets/1.png">
+<img src="https://th.bing.com/th/id/OIP.DguyktVOqJ0GImwtH8_U3QHaGV?rs=1&pid=ImgDetMain">
 </p>
 
 ## Features
@@ -40,7 +40,7 @@
   createApp(App)
     .use(SSYUI)
     .mount("#app");
-    ```
+```
 
-    ## Quick Start
+ ## Quick Start
     如果希望尽快上手，可以访问[Getting Started](https://ssy-ui-vite-eight.vercel.app/)
