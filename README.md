@@ -11,6 +11,8 @@
 <P align="center">
 <img src="./assets/1.png">
 </p>
+<img alt="GitHub License" src="https://img.shields.io/github/license/45mx/ssy-ui-vite">
+
 <!-- [![codecov](https://codecov.io/github/45mx/ssy-ui-vite/graph/badge.svg?token=7UJHDER3FW)](https://codecov.io/github/45mx/ssy-ui-vite) -->
 <a href="https://codecov.io/github/45mx/ssy-ui-vite" >
  <img src="https://codecov.io/github/45mx/ssy-ui-vite/graph/badge.svg?token=7UJHDER3FW"/>
