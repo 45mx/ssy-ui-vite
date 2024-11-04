@@ -11,6 +11,10 @@
 <P align="center">
 <img src="./assets/1.png">
 </p>
+<!-- [![codecov](https://codecov.io/github/45mx/ssy-ui-vite/graph/badge.svg?token=7UJHDER3FW)](https://codecov.io/github/45mx/ssy-ui-vite) -->
+<a href="https://codecov.io/github/45mx/ssy-ui-vite" >
+ <img src="https://codecov.io/github/45mx/ssy-ui-vite/graph/badge.svg?token=7UJHDER3FW"/>
+ </a>
 
 ## Features
  - 基于 Vue 框架
